@@ -18,4 +18,3 @@ Anomaly detection project using Isolation Forest and Autoencoder models on Medic
 - 📌 Deep Autoencoder (Keras)
 - 📌 PCA for visualization
 
-## 🗂️ Project Structure
